@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>AI.Sandbox.Engine.FoundationProbe</AssemblyName>
+    <RootNamespace>AI.Sandbox.Engine.FoundationProbe</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\AI.Sandbox.Engine.Core\AI.Sandbox.Engine.Core.csproj" />
+  </ItemGroup>
+</Project>

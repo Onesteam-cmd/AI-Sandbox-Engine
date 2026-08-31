@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/AI.Sandbox.Engine.FoundationProbe/AI.Sandbox.Engine.FoundationProbe.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/AI.Sandbox.Engine.Core/AI.Sandbox.Engine.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AI.Sandbox.Engine.Core.Tests/AI.Sandbox.Engine.Core.Tests.csproj" />
+  </Folder>
+</Solution>

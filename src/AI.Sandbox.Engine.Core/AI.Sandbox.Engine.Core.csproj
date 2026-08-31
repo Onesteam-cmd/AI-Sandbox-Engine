@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>AI.Sandbox.Engine.Core</AssemblyName>
+    <RootNamespace>AI.Sandbox.Engine.Core</RootNamespace>
+    <Description>Dependency-free foundation for reusable AI Sandbox Engine primitives and contracts.</Description>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+</Project>
